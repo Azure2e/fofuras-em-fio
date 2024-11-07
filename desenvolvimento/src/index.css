@@ -5,3 +5,12 @@
   font-family: system-ui;
 }
 
+
+
+:root {
+  --color-dark: #161925;       /* Cor escura principal */
+  --color-navy: #23395B;       /* Azul escuro/navy */
+  --color-turquoise: #0ABEEB;  /* Azul claro/turquesa */
+  --color-pink: #F5AEDD;       /* Rosa claro */
+  --color-white: #FFFFFF;      /* Branco */
+}
