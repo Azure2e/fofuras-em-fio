@@ -1,13 +1,17 @@
 import styles from "./app.module.css"
+
+//aquivos internos
 import { Header } from "./components/Header/header";
+import Welcome from "./components/Welcome";
 
 function App() {
   return (
     <div className="App">
-      <h1 className={styles.teste} >Um teste!</h1>
       <Header />
+      <Welcome/>
     </div>
   );
 }
 
 export default App;
+ 
