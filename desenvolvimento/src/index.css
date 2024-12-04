@@ -1,12 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  text-decoration: 0;
-  font-family: system-ui;
-}
-
-
-
 :root {
   --color-dark: #161925;       /* Cor escura principal */
   --color-navy: #23395B;       /* Azul escuro/navy */
@@ -14,3 +5,19 @@
   --color-pink: #F5AEDD;       /* Rosa claro */
   --color-white: #FFFFFF;      /* Branco */
 }
+
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: 0;
+  font-family: system-ui;
+}
+
+body{
+  background-color: #eee;
+}
+
+
+
+

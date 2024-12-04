@@ -1,8 +1,7 @@
 .exemplo{
-    max-width: 1080px;
+    width: 100%;
     background-color: blue;
     font-size: 20px;
     color: #ffffff;
-    padding: 20px;
     margin: auto;
 }

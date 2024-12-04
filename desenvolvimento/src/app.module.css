@@ -1,5 +1,11 @@
-.teste {
-  background-color: pink;
-  font-size: 58px;
+.cardGeral{
+  max-width: 1080px;
+  margin: auto;
+}
 
+
+@media screen and (max-width: 426px){ 
+  .cardGeral{
+    width: 100%;
+  }
 }

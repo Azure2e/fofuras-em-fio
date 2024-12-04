@@ -6,7 +6,7 @@ import Welcome from "./components/Welcome";
 
 function App() {
   return (
-    <div className="App">
+    <div className={styles.cardGeral}>
       <Header />
       <Welcome/>
     </div>
